@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JonahBCoding/The-Tech-Blog#readme",
   "dependencies": {
+    "heroku": "^7.47.7",
     "sequelize": "^6.3.5"
   }
 }
